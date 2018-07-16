@@ -1,3 +1,4 @@
 module.exports = {
-    mongoURI: 'mongodb://localhost:27017/fsm'
+    mongoURI: 'mongodb://localhost:27017/fsm',
+    jwt: 'dev-jwt'
 }
